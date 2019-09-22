@@ -2,9 +2,9 @@
 2
 3    ‎<body>
 ‎4           <h1> azadrabatky </h1>
-5           ‎<a href="cydia://url/⁦‪cydia.saurik.com/api/share#?sou…‬⁩">Add to Cydia</a><br><br>
-6           ‎<a href="sileo://source/⁦‪user.github.io/reponame/‬⁩">Add to Sileo</a><br><br>
-7           ‎<a href="zbra://sources/add/⁦‪user.github.io/reponame/‬⁩">Add to Zebra</a>
+5           ‎<a href="cydia://url/⁦‪azadrabatky.github.io/mziri/share#?sou…‬⁩">Add to Cydia</a><br><br>
+6           ‎<a href="sileo://source/⁦‪azadrabatky.github.io/mziri/‬⁩">Add to Sileo</a><br><br>
+7           ‎<a href="zbra://sources/add/⁦‪azadrabatky.github.io/mziri/‬⁩">Add to Zebra</a>
 8   ‎</body>
 9
 10  ‎</html>
